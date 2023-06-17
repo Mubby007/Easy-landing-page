@@ -1,6 +1,8 @@
 html {
   font-size: 100%;
   box-sizing: border-box;
+  width: 100%;
+  height: 100%;
 }
 
 *, *::before, *::after {
@@ -14,7 +16,7 @@ body {
   height: 100%;
   padding: 0;
   line-height: 1.3;
-  font-family: "inter";
+  font-family: "Public Sans", sans-serif;
   color: hsl(233, 8%, 62%);
   font-weight: 300;
   overflow-x: hidden;
