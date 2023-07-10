@@ -8,7 +8,7 @@ const overlay = document.querySelector(".overlay")
 
 const fadeElems = document.querySelectorAll(".has-fade")
 
-header.addEventListener("click",function(){
+btnHamburger.addEventListener("click",function(){
 
     if(header.classList.contains('open')) {//Close hamburger menu
 
